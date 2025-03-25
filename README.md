@@ -8,4 +8,5 @@ This repository contains the project files required to set up the application lo
    Clone this repository or download it as a ZIP file and extract it.
 
 2. **Locate the `htdocs` Directory:**  
-   Navigate to the following path on your local machine:  
+   Navigate to the following path on your local machine:
+   C:/xampp/htdocs/
